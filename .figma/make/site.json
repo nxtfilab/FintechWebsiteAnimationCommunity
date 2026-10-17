@@ -1,0 +1,10 @@
+{
+  "description": "Streamline crypto-to-fiat transactions with a non-custodial platform that ensures compliance, risk management, and efficient payment processing for merchants.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
